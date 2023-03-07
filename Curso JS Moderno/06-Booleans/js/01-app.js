@@ -1,0 +1,1 @@
+const bolean4 = new Boolean(true);
